@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
+<h3 align="center"> Passionate by Science and Data Analysis </h3>
 
-<!--
-**admfrancescousseau/admfrancescousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src= "https://user-images.githubusercontent.com/112359213/216746110-77607608-239f-45c9-a66b-6f8ccbadc858.png" alt="adm.francescousseau" height="35" width="40" /> </a> I’m studying **Power BI, DAX, Python, SQL, Excel**
 
-Here are some ideas to get you started:
+- <img src= "https://user-images.githubusercontent.com/112359213/216747112-c4e96502-1e4e-4f7c-b005-573efcb80864.png" alt="112359213" height="35" width="40" /></a>  **adm.francescousseau@outlook.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/admfrancescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/admfrancescousseau/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/francescoccousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/francescoccousseau" height="30" width="40" /></a>
+<a href="https://instagram.com/adm.francescousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adm.francescousseau" height="30" width="40" /></a> 
+
+<h3 align="left">Database:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <img src="https://user-images.githubusercontent.com/112359213/216742308-4c0ac35d-3635-4c33-b817-65f41b8ac463.png" alt="112359213" width="40" height="40"/> </a>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://www.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112359213/216746814-7a6cafb1-554f-4a95-8e1e-a08b9a7031e8.png" alt="112359213" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
