@@ -9,9 +9,9 @@
 
 <h3 align="left"> Graduated in:</h3>
 
-- Gestor de Business Inteligence - [XPE](https://www.xpeducacao.com.br/)
-- Analista de Dados - [XPE](https://www.xpeducacao.com.br/)
-- Desenvolvedor Python - [XPE](https://www.xpeducacao.com.br/)
+- Business Intelligence Manager - [XPE](https://www.xpeducacao.com.br/)
+- Data Analyst - [XPE](https://www.xpeducacao.com.br/)
+- Python Developer - [XPE](https://www.xpeducacao.com.br/)
 - Agile Expert - [XPE](https://www.xpeducacao.com.br/)
 - Power BI - [EDULIV  Business Intelligence School](https://play.eduliv.com.br/) 
 - Power BI - [Power BI Experience](https://powerbiexperience.com/)
