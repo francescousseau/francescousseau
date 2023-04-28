@@ -1,6 +1,13 @@
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=admfrancescousseau&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admfrancescousseau&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
 <h3 align="left"> Professional Certification:</h3>
 
 - Business Intelligence Foundation - BIFPC™ [CerfiProf](https://certiprof.com/)
