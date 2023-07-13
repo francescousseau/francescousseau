@@ -1,3 +1,5 @@
+![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/112359213/253356556-747b6ef4-830c-4f0f-858d-54b0a0827778.png)
+
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
@@ -17,7 +19,7 @@
 <h3 align="left"> Graduated in:</h3>
 
 - Business Intelligence Manager - [XPE](https://www.xpeducacao.com.br/)
-- Data Analyst - [XPE](https://www.xpeducacao.com.br/)
+- Data Science | Analyst - [XPE](https://www.xpeducacao.com.br/)
 - Python Developer - [XPE](https://www.xpeducacao.com.br/)
 - Agile Expert - [XPE](https://www.xpeducacao.com.br/)
 - Power BI - [EDULIV  Business Intelligence School](https://play.eduliv.com.br/) 
