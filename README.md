@@ -3,12 +3,6 @@
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
-<div>
-  
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=admfrancescousseau&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admfrancescousseau&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
-</div>
-<br>
 
 <h3 align="left"> Professional Certification:</h3>
 
@@ -47,3 +41,12 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left"> <a href="https://www.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112359213/216746814-7a6cafb1-554f-4a95-8e1e-a08b9a7031e8.png" alt="112359213" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+
+<div>
+  
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=admfrancescousseau&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admfrancescousseau&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+</div>
+<br>
+
