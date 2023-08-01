@@ -6,6 +6,7 @@
 
 <h3 align="left"> Professional Certification:</h3>
 
+- Google Data Analytics - [Google](https://www.credly.com/badges/17aac1ba-8e6b-4205-a9a3-818d9f977a8a/public_url)
 - Business Intelligence Foundation - BIFPC™ [CerfiProf](https://certiprof.com/)
 - Scrum Foundation Professional Certificate - SFPC™ (v2020) [CerfiProf](https://certiprof.com/)
 - Remote Work Professional Certification - RWPC™ [CerfiProf](https://certiprof.com/)
