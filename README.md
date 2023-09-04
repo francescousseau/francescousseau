@@ -1,4 +1,4 @@
-![linkedIn1](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/5e9fbc97-9b9c-4c6a-9f6f-a3769dec6411)
+![linkedIn2](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/cda50c90-d14d-4fc2-b2dc-720996069ab8)
 
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
