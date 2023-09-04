@@ -15,6 +15,8 @@
 
 - Business Intelligence Manager - [XPE](https://www.xpeducacao.com.br/)
 - Data Science | Analyst - [XPE](https://www.xpeducacao.com.br/)
+- Variable Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
+- Fixed Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
 - Python Developer - [XPE](https://www.xpeducacao.com.br/)
 - Agile Expert - [XPE](https://www.xpeducacao.com.br/)
 - Power BI - [EDULIV  Business Intelligence School](https://play.eduliv.com.br/) 
