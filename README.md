@@ -3,8 +3,9 @@
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=admfrancescousseau&theme=shadow-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=admfrancescousseau&theme=shadow-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admfrancescousseau&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) 
 
 <h3 align="left"> Professional Certification:</h3>
 
