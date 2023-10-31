@@ -3,6 +3,8 @@
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=admfrancescousseau&theme=shadow-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admfrancescousseau&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <h3 align="left"> Professional Certification:</h3>
 
@@ -51,7 +53,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="70" height="70" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" /> </a> <p align="left"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112359213/216746814-7a6cafb1-554f-4a95-8e1e-a08b9a7031e8.png" alt="112359213" width="40" height="40"/> </a> 
           
-<div>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admfrancescousseau&layout=compact&langs_count=16&theme=shadow_blue"/>
-</div>
-<br>
+
