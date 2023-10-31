@@ -4,7 +4,6 @@
 <h3 align="center"> Passionate by Science and Data Analysis </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admfrancescousseau&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![wakatime](https://wakatime.com/badge/user/018b8752-f2b1-4fde-b335-eb857b27d7ba.svg)](https://wakatime.com/@018b8752-f2b1-4fde-b335-eb857b27d7ba)
 
 <h3 align="left"> Professional Certification:</h3>
 
