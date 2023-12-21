@@ -1,7 +1,7 @@
 ![linkedIn2](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/cda50c90-d14d-4fc2-b2dc-720996069ab8)
 
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
-<h3 align="center"> Passionate by Science and Data Analysis </h3>
+<h3 align="center"> Passionate about AI, Machine Learning, Business Intelligence, Data Science and Data Analytics </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admfrancescousseau&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=admfrancescousseau&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
