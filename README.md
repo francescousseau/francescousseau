@@ -7,7 +7,7 @@
 
 <h3 align="left"> Professional Certification:</h3>
 
-- IA Engineer [IBM](https://www.credly.com/badges/a4a82cc0-d483-43e2-aef4-46ea8c1abc74/public_url)
+- IA Engineer - [IBM](https://www.credly.com/badges/a4a82cc0-d483-43e2-aef4-46ea8c1abc74/public_url)
 - Data Analytics - [Google](https://www.credly.com/badges/17aac1ba-8e6b-4205-a9a3-818d9f977a8a/public_url)
 - Project Management - [Google](https://www.credly.com/earner/earned/badge/77f69b3d-6d52-4b11-8ffe-25fcb256c285)
 - Business Intelligence Foundation - BIFPC™ [CerfiProf](https://certiprof.com/)
