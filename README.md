@@ -1,4 +1,4 @@
-![FAITHFUL (Site) arvore](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/a6ef164c-7d99-4a04-bd3b-1db635373e13)
+![FAITHFUL github](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/fe24de94-689d-4fcd-9232-997df9343376)
 
 <h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
 <h3 align="center"> Passionate about AI, Machine Learning, Business Intelligence, Data Science and Data Analytics </h3>
