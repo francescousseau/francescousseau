@@ -27,13 +27,13 @@
 
 <img src= "https://user-images.githubusercontent.com/112359213/216746110-77607608-239f-45c9-a66b-6f8ccbadc858.png" alt="adm.francescousseau" height="35" width="40" /> </a> I’m studying **Power BI, DAX, Python, SQL, Excel**
 
-<img src= "https://user-images.githubusercontent.com/112359213/216747112-c4e96502-1e4e-4f7c-b005-573efcb80864.png" alt="112359213" height="35" width="40" /></a>  **adm.francescousseau@outlook.com**
+<img src= "https://user-images.githubusercontent.com/112359213/216747112-c4e96502-1e4e-4f7c-b005-573efcb80864.png" alt="112359213" height="35" width="40" /></a>  **francescousseau@faithful.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/admfrancescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/admfrancescousseau/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francescousseau/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/francescoccousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/francescoccousseau" height="30" width="40" /></a>
-<a href="https://instagram.com/adm.francescousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adm.francescousseau" height="30" width="40" /></a> 
+<a href="https://instagram.com/francescousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adm.francescousseau" height="30" width="40" /></a> 
 
 
 <h3 align="left">Cloud Services:</h3>
