@@ -25,10 +25,6 @@
 - Power BI - [Power BI Experience](https://powerbiexperience.com/)
 
 
-<img src= "https://user-images.githubusercontent.com/112359213/216746110-77607608-239f-45c9-a66b-6f8ccbadc858.png" alt="adm.francescousseau" height="35" width="40" /> </a> I’m studying **Power BI, DAX, Python, SQL, Excel**
-
-<img src= "https://user-images.githubusercontent.com/112359213/216747112-c4e96502-1e4e-4f7c-b005-573efcb80864.png" alt="112359213" height="35" width="40" /></a>  **francescousseau@faithful.com.br**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francescousseau/" height="30" width="40" /></a>
