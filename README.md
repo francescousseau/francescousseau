@@ -25,13 +25,6 @@
 - Power BI - [Power BI Experience](https://powerbiexperience.com/)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/francescousseau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francescousseau/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/francescoccousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/francescoccousseau" height="30" width="40" /></a>
-<a href="https://instagram.com/francescousseau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adm.francescousseau" height="30" width="40" /></a> 
-
-
 <h3 align="left">Cloud Services:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="85" height="85"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="85" height="85" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="85" height="85"/>
