@@ -1,29 +1,80 @@
 ![FAITHFUL github](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/fe24de94-689d-4fcd-9232-997df9343376)
 
-<h1 align="center">Hi, I'm Francesco Cristiano Cousseau</h1>
-<h3 align="center"> Passionate about AI, Machine Learning, Business Intelligence, Data Science and Data Analytics </h3>
+<h1 align="center">Hi, I'm Francesco Cristiano Cousseau - Data Science & AI Engineer</h1>
+<h3 align="center"> I am a professional passionate about the constant evolution of the world of Data Science and Artificial Intelligence. My ongoing pursuit of new challenges, partnerships, and opportunities allows me to apply and expand my expertise in data analysis, development of intelligent solutions, and generation of strategic insights that add real value to businesses. As an active member of CRA/SC, I hold a solid academic background, with a degree in Business Administration with an emphasis on Foreign Trade and an MBA in Business Logistics from Celer Faculdades.
+With an analytical mindset and a practical approach, I have dedicated myself to transforming large volumes of data into strategic decisions and innovative solutions. Throughout my career, I have developed advanced skills in Data Science, Machine Learning, Business Intelligence, and Artificial Intelligence, applying them in a personalized way to drive business growth and optimize decision-making processes.
+My experience includes implementing predictive models, creating interactive dashboards, and automating data-driven workflows. My goal is always to provide effective solutions that not only meet the current needs of businesses but also prepare them for future challenges. </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescousseau&theme=github_dark&show_icons=true) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=francescousseau&bg_color=000&border_color=30A3DC&title_color=58a6ff&text_color=a0adb4)
 
-- IA Engineer - [IBM](https://www.credly.com/badges/a4a82cc0-d483-43e2-aef4-46ea8c1abc74/public_url)
-- Data Analytics - [Google](https://www.credly.com/badges/17aac1ba-8e6b-4205-a9a3-818d9f977a8a/public_url)
-- Project Management - [Google](https://www.credly.com/earner/earned/badge/77f69b3d-6d52-4b11-8ffe-25fcb256c285)
-- Business Intelligence Foundation - BIFPC™ [CerfiProf](https://certiprof.com/)
-- Scrum Foundation Professional Certificate - SFPC™ (v2020) [CerfiProf](https://certiprof.com/)
-- Remote Work Professional Certification - RWPC™ [CerfiProf](https://certiprof.com/)
+<h3 align="left"> Certifications in:</h3>
 
-<h3 align="left"> Graduated in:</h3>
+Here are some of my certifications that reflect my expertise in Data Science and AI, along with the organizations where I completed the courses:
 
-- Business Intelligence Manager - [XPE](https://www.xpeducacao.com.br/)
-- Data Science | Analyst - [XPE](https://www.xpeducacao.com.br/)
-- Variable Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
-- Fixed Income Data Scientist - [XPE](https://www.xpeducacao.com.br/)
-- Python Developer - [XPE](https://www.xpeducacao.com.br/)
-- Agile Expert - [XPE](https://www.xpeducacao.com.br/)
-- Power BI - [EDULIV  Business Intelligence School](https://play.eduliv.com.br/) 
-- Power BI - [Power BI Experience](https://powerbiexperience.com/)
+Google AI Essentials
+Fundamental certification in Artificial Intelligence focusing on essential AI concepts.
+Issued by: Coursera
 
+Inteligência Artificial: Fundamentos e Aplicações No-Code
+Certification covering no-code AI and its practical applications.
+Issued by: PoD Academy
+
+Python Data Analytics
+Certification in data analysis using Python, focusing on essential techniques and libraries for working with data.
+Issued by: DIO
+
+Data Analytics Essentials
+Introductory certification in data analytics, focusing on essential tools and concepts.
+Issued by: Cisco
+
+Introduction to Python Programming for Data Science
+Certification in Python programming for Data Science.
+Issued by: Dataquest.io
+
+IBM AI Engineering Professional Certificate
+Professional certification focused on AI engineering, covering advanced topics and practical applications.
+Issued by: Coursera
+
+Google Project Management (PT)
+Certification in project management, focusing on agile methodologies and best practices.
+Issued by: Coursera
+
+Cientista de Dados de Renda Fixa
+Certification specializing in financial data analysis with a focus on fixed income.
+Issued by: XP Educação
+
+Cientista de Dados de Renda Variável
+Certification specializing in financial data analysis with a focus on variable income.
+Issued by: XP Educação
+
+Google Data Analytics (PT)
+Comprehensive certification in data analytics, including fundamental concepts and practices.
+Issued by: Coursera
+
+Cientista de Dados
+Comprehensive certification in Data Science, covering various techniques and practical applications.
+Issued by: XP Educação
+
+Desenvolvedor Python
+Certification in Python development, focusing on best practices and popular libraries.
+Issued by: XP Educação
+
+Business Intelligence Foundation Professional Certification (BIFPC)
+Certification in Business Intelligence fundamentals, covering key techniques and tools for business data analysis.
+Issued by: Certiprof
+
+Analista de Dados
+Certification in data analysis, focusing on techniques for collecting, analyzing, and interpreting data.
+Issued by: XP Educação
+
+Scrum Foundation Professional Certificate (SFPC™)
+Certification in Scrum, covering fundamental practices of agile methodologies.
+Issued by: Certiprof
+
+Agile Expert
+Advanced certification in agile methodologies, focusing on practices and tools for agile project management.
+Issued by: XP Educação
 
 <h3 align="left">Cloud Services:</h3>
 
