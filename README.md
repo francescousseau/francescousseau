@@ -136,9 +136,9 @@ Issued by: XP Educação
 
 
 <a href="https://github.com/francescousseau/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=francescousseau&theme=github_dark&show_icons=true" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=francescousseau&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/francescousseau/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescousseau&theme=github_dark&layout=compact&langs_count=8&card_width=320" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescousseau&theme=github_dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
