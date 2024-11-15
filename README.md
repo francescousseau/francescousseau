@@ -134,7 +134,11 @@ Issued by: XP Educação
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50" /> <p align="left"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="PowerBI" width="30" height="30"/> </a> <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112359213/216746814-7a6cafb1-554f-4a95-8e1e-a08b9a7031e8.png" alt="112359213" width="30" height="30"/> </a> 
           
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescousseau&theme=github_dark&show_icons=true) 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=francescousseau&bg_color=000&border_color=30A3DC&title_color=58a6ff&text_color=a0adb4)
 
+<a href="https://github.com/francescousseau/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=francescousseau&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/francescousseau/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescousseau&theme=github_dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
