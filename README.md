@@ -22,6 +22,12 @@ My goal is always to provide effective solutions that not only meet the current 
 
 Here are some of my certifications that reflect my expertise in Data Science and AI, along with the organizations where I completed the courses:
 
+- Google Cybersecurity Certificate
+
+  The Google Cybersecurity Certificate prepares individuals for entry-level cybersecurity roles through eight courses covering Python, Linux, SQL, SIEM tools, IDS, and risk identification and mitigation techniques.
+
+Issued by: Coursera
+
 - Google AI Essentials
 
 Fundamental certification in Artificial Intelligence focusing on essential AI concepts.
