@@ -21,25 +21,25 @@
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- Google Cybersecurity Certificate (Coursera)
-- Google AI Essentials (Coursera)
-- Artificial Intelligence: Fundamentals and No-Code Applications (PoD Academy)
-- Python Data Analytics (DIO)
-- Data Analytics Essentials (Cisco)
-- Introduction to Python Programming for Data Science (Dataquest.io)
-- IBM AI Engineering Professional Certificate (Coursera)
-- Google Project Management (PT) (Coursera)
-- Fixed Income Data Scientist (XP Educação)
-- Variable Income Data Scientist (XP Educação)
-- Google Data Analytics (PT) (Coursera)
-- Data Scientist (XP Educação)
-- Python Developer (XP Educação)
-- Business Intelligence Foundation Professional Certification (BIFPC) (Certiprof)
-- Data Analyst (XP Educação)
-- Scrum Foundation Professional Certificate (SFPC™) (Certiprof)
-- Agile Expert (XP Educação)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/77L47DMWGL3J)
+[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/4a5a13a3-b41b-40f9-8b5d-5996f59fd9d4/linked_in_profile)
+[![AI Fundamentals and No-Code (PoD Academy)](https://img.shields.io/badge/AI%20Fundamentals%20%26%20No--Code-6A1B9A?style=for-the-badge&logo=artificialintelligence&logoColor=white)](https://e-certificado.com/e?c=2356574ABE3119C915286780)
+[![Python Data Analytics (DIO)](https://img.shields.io/badge/Python%20Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://1drv.ms/b/s!Asqpf1bdSwkKm6p_D7NuYMsbT2UGJg?e=EfIxR7)
+[![Data Analytics Essentials (Cisco)](https://img.shields.io/badge/Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/81a6db96-ea8f-45dc-963d-90a29281b3ef/linked_in_profile)
+[![Intro to Python for Data Science (Dataquest)](https://img.shields.io/badge/Python%20for%20Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://app.dataquest.io/view_cert/97J9BG7DT4PFFZRR6IEQ)
+[![IBM AI Engineering Professional](https://img.shields.io/badge/IBM%20AI%20Engineering-0A66C2?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/a4a82cc0-d483-43e2-aef4-46ea8c1abc74/linked_in_profile)
+[![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/54c6c1a3e46c7328d883a7d7b65f8366)
+[![Fixed Income Data Scientist (XP)](https://img.shields.io/badge/Fixed%20Income%20Data%20Scientist-003366?style=for-the-badge&logo=chart&logoColor=white)](https://1drv.ms/i/s!Asqpf1bdSwkKmrA-_znF8ZEe9wUayA?e=n7uBrS)
+[![Variable Income Data Scientist (XP)](https://img.shields.io/badge/Variable%20Income%20Data%20Scientist-006D77?style=for-the-badge&logo=chart&logoColor=white)](https://1drv.ms/i/s!Asqpf1bdSwkKmcsirvNv6BLHB1jCPA?e=sCAzNU)
+[![Google Data Analytics (PT)](https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/64455f2d92c4d62d6eafda03ca61dc30)
+[![Data Scientist (XP)](https://img.shields.io/badge/Data%20Scientist-023047?style=for-the-badge&logo=databricks&logoColor=white)](https://1drv.ms/i/s!Asqpf1bdSwkKmcZnZqQtnKwXh4_qIg?e=z67qBL)
+[![Python Developer (XP)](https://img.shields.io/badge/Python%20Developer-306998?style=for-the-badge&logo=python&logoColor=white)](https://1drv.ms/f/s!Asqpf1bdSwkKmatWx4vbPbgEfN-Wgg?e=PAdXfq)
+[![Business Intelligence Foundation (Certiprof)](https://img.shields.io/badge/BI%20Foundation%20Professional-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.credly.com/badges/7775fa88-2392-4bd8-b602-2216a3dcf14b/linked_in_profile)
+[![Data Analyst (XP)](https://img.shields.io/badge/Data%20Analyst-0077B6?style=for-the-badge&logo=databricks&logoColor=white)](https://1drv.ms/b/s!Asqpf1bdSwkKmZl0iY0tQyR_D-PTAg?e=GvEYsq)
+[![Scrum Foundation (Certiprof)](https://img.shields.io/badge/Scrum%20Foundation-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.credly.com/badges/ba5f4ed1-b5d5-4695-b828-ecbe448a0fe5/linked_in_profile)
+[![Agile Expert (XP)](https://img.shields.io/badge/Agile%20Expert-264653?style=for-the-badge&logo=simpleicons&logoColor=white)](https://1drv.ms/b/s!Asqpf1bdSwkKmatRAi8zHn9nug20AQ?e=2sVMuN)
 
 ---
 
@@ -114,6 +114,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francescousseau&show_icons=true&theme=blueberry&hide_border=false&border_radius=10" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescousseau&layout=compact&theme=blueberry&hide_border=false&border_radius=10" alt="Top Languages"/>
 </p>
-
-
 
