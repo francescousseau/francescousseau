@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets-github-banner.jpg" alt="Francesco Cousseau | AI & Data Science Consultant" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Francesco Cousseau</h1>
 <h3 align="center">AI Engineer | Data Scientist | BI Consultant </h3>
 
