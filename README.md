@@ -110,8 +110,22 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francescousseau&show_icons=true&theme=blueberry&hide_border=false&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescousseau&layout=compact&theme=blueberry&hide_border=false&border_radius=10" alt="Top Languages"/>
-</p>
+<div align="center">
 
+  <img 
+    src="https://streak-stats.demolab.com?user=francescousseau&theme=dark&hide_border=false&border_radius=12&background=0D1117&border=1F6FEB&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=C0C0C0&locale=pt_BR&v=1" 
+    alt="Francesco Cousseau GitHub Streak"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=francescousseau&bg_color=0D1117&color=C0C0C0&line=D4AF37&point=1F6FEB&area=true&hide_border=false&radius=12&v=1" 
+    alt="Francesco Cousseau GitHub Activity Graph"
+  />
+
+</div>
