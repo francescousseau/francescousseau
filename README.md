@@ -1,5 +1,6 @@
-![FAITHFUL github](https://github.com/admfrancescousseau/admfrancescousseau/assets/112359213/fe24de94-689d-4fcd-9232-997df9343376)
-
+<p align="center">
+  <img src="ChatGPT%20Image%2022%20de%20mai.%20de%202026%2C%2021_39_35.png" alt="Francesco Cousseau | AI & Data Science Consultant" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Francesco Cousseau</h1>
 <h3 align="center">AI Engineer | Data Scientist | BI Consultant </h3>
 
