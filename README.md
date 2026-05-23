@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%2022%20de%20mai.%20de%202026%2C%2021_39_35.png" alt="Francesco Cousseau | AI & Data Science Consultant" width="100%">
+  <img src="assents-github-banner.jpg" alt="Francesco Cousseau | AI & Data Science Consultant" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Francesco Cousseau</h1>
 <h3 align="center">AI Engineer | Data Scientist | BI Consultant </h3>
