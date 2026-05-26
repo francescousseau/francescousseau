@@ -109,24 +109,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=francescousseau&theme=dark&hide_border=false&border_radius=12&background=0D1117&border=1F6FEB&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=C0C0C0&sideNums=C0C0C0&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=C0C0C0&locale=pt_BR&v=1" 
-    alt="Francesco Cousseau GitHub Streak"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=francescousseau&bg_color=0D1117&color=C0C0C0&line=D4AF37&point=1F6FEB&area=true&hide_border=false&radius=12&v=1" 
-    alt="Francesco Cousseau GitHub Activity Graph"
-  />
-
-</div>
