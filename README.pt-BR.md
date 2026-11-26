@@ -39,6 +39,8 @@ Agrupada pela evidência que consigo mostrar, e não pela popularidade da ferram
 | Nível | Ferramentas |
 |---|---|
 | **Aplicado em projetos** (visível em repositórios públicos) | Python · NumPy · pandas · SciPy · scikit-learn · imbalanced-learn · Matplotlib · Seaborn · Jupyter · OpenCV · pytest · Git e GitHub |
+| **Usado em trabalho profissional** (consultoria e clientes, sem repositório público) | AWS · Apache Spark · Apache Airflow · Looker · Tableau · MongoDB · Streamlit · Dash · TensorFlow · Keras |
+| **Ferramentas de desenvolvimento** | Cursor · OpenCode · Orca · Kepler |
 | **Familiaridade** (formações e certificações) | SQL · DAX e Power BI · Azure Data Factory · engenharia de prompt · GitHub Copilot |
 | **Em aprendizado** | IA Generativa · aplicações com LLMs · agentes de IA · Retrieval-Augmented Generation · MLOps |
 

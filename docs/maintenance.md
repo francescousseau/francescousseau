@@ -6,7 +6,7 @@
 |---|---|
 | New project or result | "Selected projects" in `README.md` **and** `README.pt-BR.md` (keep both in sync) |
 | New credential | "Certificates and training" in both READMEs. Link only to public, verifiable pages |
-| Tool moves between levels | "Technical stack". Promote to *Applied in projects* only with a public repository that uses it |
+| Tool moves between levels | "Technical stack". Promote to *Applied in projects* only with a public repository that uses it. *Used in professional work* is self-declared and has no public evidence, so link a case study when one exists |
 | Postgraduate status | "Education". Move from *in progress* to completed only after the credential exists |
 | Banner text | `assets/banners/hero.svg` (keep `<title>` and `<desc>` in sync) |
 

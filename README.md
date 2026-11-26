@@ -39,6 +39,8 @@ Grouped by how I can evidence it, not by how popular the tool is.
 | Level | Tools |
 |---|---|
 | **Applied in projects** (visible in public repositories) | Python · NumPy · pandas · SciPy · scikit-learn · imbalanced-learn · Matplotlib · Seaborn · Jupyter · OpenCV · pytest · Git and GitHub |
+| **Used in professional work** (client and consulting work, not published in repositories) | AWS · Apache Spark · Apache Airflow · Looker · Tableau · MongoDB · Streamlit · Dash · TensorFlow · Keras |
+| **Developer tooling** | Cursor · OpenCode · Orca · Kepler |
 | **Familiar with** (training and certifications) | SQL · DAX and Power BI · Azure Data Factory · prompt engineering · GitHub Copilot |
 | **Currently learning** | Generative AI · LLM applications · AI agents · Retrieval-Augmented Generation · MLOps |
 
