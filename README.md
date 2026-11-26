@@ -128,7 +128,7 @@ My background is in Business Administration (Foreign Trade) and a Logistics MBA,
 - Applied Data Science with Python, University of Michigan (08/2026)
 
 **Specialized training and courses**
-- Prompt Engineering for Software Engineers (course), MBA USP/Esalq (03/2026)
+- Prompt Engineering for Software Engineers (standalone course), USP/Esalq (03/2026)
 - Data Science Programmer, Codi Academy (03/2026)
 - DIO: Nexa Machine Learning and GenAI in Practice (12/2025) · Microsoft Acceleration AI and Data Architecture (12/2025) · Microsoft 50 Years: Smart Prompts and GitHub Copilot (11/2025) · Python Data Analytics (06/2024)
 - XP Educação (2022–2023): Data Analyst · Python Developer · BI Manager · Data Scientist · Fixed-Income and Variable-Income Data Scientist · Agile Expert
