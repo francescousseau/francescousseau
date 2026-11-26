@@ -1,0 +1,25 @@
+name: Validate profile
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# Least privilege: the job only reads the repository.
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # First-party action. Dependabot (see dependabot.yml) keeps it current;
+      # pin to a full commit SHA if you want immutable references.
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check README files, banner and relative links
+        run: |
+          sudo apt-get install -y --no-install-recommends libxml2-utils
+          bash scripts/check-profile.sh
