@@ -128,7 +128,7 @@ Minha formação é em Administração (Comércio Exterior) e MBA em Logística 
 - Applied Data Science with Python, University of Michigan (08/2026)
 
 **Formações especializadas e cursos**
-- Engenharia de Prompt para Engenheiros de Software (curso), MBA USP/Esalq (03/2026)
+- Engenharia de Prompt para Engenheiros de Software (curso avulso), USP/Esalq (03/2026)
 - Programador Data Science, Codi Academy (03/2026)
 - DIO: Nexa Machine Learning e GenAI na Prática (12/2025) · Aceleração Microsoft IA Arquitetura de Dados (12/2025) · Microsoft 50 Anos: Prompts Inteligentes e GitHub Copilot (11/2025) · Python Data Analytics (06/2024)
 - XP Educação (2022–2023): Analista de Dados · Desenvolvedor Python · Gestor de BI · Cientista de Dados · Cientista de Dados de Renda Fixa e Renda Variável · Agile Expert
